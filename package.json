@@ -1,0 +1,24 @@
+{
+  "name": "instagram-web-wrapper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akrsh24/instagram-web-wrapper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akrsh24/instagram-web-wrapper/issues"
+  },
+  "homepage": "https://github.com/akrsh24/instagram-web-wrapper#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "fs": "0.0.1-security",
+    "instagram-web-api": "^2.2.2"
+  }
+}
